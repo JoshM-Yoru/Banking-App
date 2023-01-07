@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ebec1e4.css",
+    "main.js": "/static/js/main.ff1e3278.js",
+    "static/media/GoodBank-Logo_Dark.png": "/static/media/GoodBank-Logo_Dark.8ca1b852d22dc30e8ee9.png",
+    "static/media/GoodBank-Logo_White.png": "/static/media/GoodBank-Logo_White.15785ac8eaf9bd83b246.png",
+    "index.html": "/index.html",
+    "main.9ebec1e4.css.map": "/static/css/main.9ebec1e4.css.map",
+    "main.ff1e3278.js.map": "/static/js/main.ff1e3278.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ebec1e4.css",
+    "static/js/main.ff1e3278.js"
+  ]
+}
